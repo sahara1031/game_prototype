@@ -1,0 +1,5 @@
+C:\Users\sshha\Desktop\本番\game_試作\prototype_01\x64\Debug\prototype_01.exe
+C:\Users\sshha\Desktop\ゲーム関係\本番\game_試作\prototype_01\x64\Debug\prototype_01.exe
+C:\Users\sshha\Desktop\ゲーム関係\ゲームタイトル\day1_02\x64\Debug\prototype_01.exe
+C:\Users\sshha\OneDrive - 独立行政法人 国立高等専門学校機構\デスクトップ\ゲーム関係\ゲームタイトル\day1_02\x64\Debug\prototype_01.exe
+C:\Users\sshha\OneDrive - 独立行政法人 国立高等専門学校機構\デスクトップ\ゲーム関係\スライムっぽい\day1_02\x64\Debug\prototype_01.exe

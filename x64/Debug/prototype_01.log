@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\sshha\OneDrive - 独立行政法人 国立高等専門学校機構\デスクトップ\ゲーム関係\スライムっぽい\day1_02\main.cpp(212,8): warning C4244: '初期化中': 'T' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+C:\Users\sshha\OneDrive - 独立行政法人 国立高等専門学校機構\デスクトップ\ゲーム関係\スライムっぽい\day1_02\main.cpp(213,8): warning C4244: '初期化中': 'T' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+  prototype_01.vcxproj -> C:\Users\sshha\OneDrive - 独立行政法人 国立高等専門学校機構\デスクトップ\ゲーム関係\スライムっぽい\day1_02\x64\Debug\prototype_01.exe
